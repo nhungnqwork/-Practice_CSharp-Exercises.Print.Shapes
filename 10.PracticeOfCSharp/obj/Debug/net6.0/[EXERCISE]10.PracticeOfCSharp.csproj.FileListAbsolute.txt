@@ -1,0 +1,15 @@
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\bin\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.exe
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\bin\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.deps.json
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\bin\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.runtimeconfig.json
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\bin\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\bin\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.pdb
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.csproj.AssemblyReference.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\refint\[EXERCISE]10.PracticeOfCSharp.dll
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.pdb
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\[EXERCISE]10.PracticeOfCSharp.genruntimeconfig.cache
+C:\Users\huynh\OneDrive\Desktop\[CSharp]DataStructure\PracticeShape\[EXERCISE]10.PracticeOfCSharp\obj\Debug\net6.0\ref\[EXERCISE]10.PracticeOfCSharp.dll
